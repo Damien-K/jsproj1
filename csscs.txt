@@ -1,0 +1,3 @@
+justify-content: center;  will bring the div to center of the page (this is a flex property)
+align-items: center;      will vertically allign the value within the div
+
